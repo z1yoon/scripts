@@ -1,2 +1,2 @@
-# opensource
+# script
 수업용
